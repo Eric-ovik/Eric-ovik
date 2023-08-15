@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Eric-ovik
 - 👀 GIS
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ Data , Maps , Systems
+
 
 <!---
 Eric-ovik/Eric-ovik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
